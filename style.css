@@ -1,3 +1,45 @@
-.background-image{
-  background-image: image url(<img class="thumb-image loaded" data-src="https://images.squarespace-cdn.com/content/v1/52cdaaf4e4b0b5ef88cb0b93/1593630533564-GSV13D8IP0P217QSJWQV/ke17ZwdGBToddI8pDm48kDk1dm1oSR9gCa1mX4KqzjN7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0luj0xCD0oh5KMc0gpox0u-wQWxfQHg04OxgQwaUq2yiAcNt5Kg2tE9yEtYfM4xwaw/fall+beets+and+carrots_Seattle+Urban+Farm+Co_Hilary+Dahl"
+.body{
+  background-color: #a7d9b5; margin: 20px,20px,0px,20px;font-family: cursive; text-decoration-color:
+}
+
+.header-alignment{
+  text-align: left;
+}
+.header-background{
+  background-image: url(https://i.ebayimg.com/images/g/9D4AAMXQrNtRzbiY/s-l300.jpg);font-size: 30px;margin-bottom: 0px;
+}
+
+.Dwights-picture{
+  border-left-style: solid;
+border-left-width: 10px;
+border-top-width: 10px;
+border-top-style: solid;
+border-right-width: 10px;
+border-right-style: solid;
+border-bottom-width: 10px;
+border-bottom-style: solid;
+}
+
+.menu-width{
+  width: 130px;
+}
+
+.list-padding{
+  padding-left: 10px;
+}
+
+.intro-position{
+  position: absolute;left: 30px;top: 30px;
+  width: 600px;
+  margin-left: 350px;
+  padding-top: 0px;
+  margin-bottom: 100px;
+  margin-top: 200px;
+}
+.title-font{
+  font-size: 30px;
+}
+
+.Education-section{
+  width: 550px
 }
